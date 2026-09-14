@@ -1,0 +1,3 @@
+# Generated preprocessing outputs
+data_processed/*.csv
+data_processed/*.npz
